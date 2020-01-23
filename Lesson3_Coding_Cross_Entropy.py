@@ -1,3 +1,4 @@
+#For 2 classes
 import numpy as np
 
 # Write a function that takes as input two lists Y, P,
