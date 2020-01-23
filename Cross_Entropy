@@ -1,0 +1,3 @@
+**What is Cross Entropy??**
+If there are are some events and some probabilities, how likely is it that those events happens based on probabilities?
+If it is very likely, then the cross entropy is low. And if it is unlikely, then we have a high cross entropy.
