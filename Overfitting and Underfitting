@@ -2,3 +2,12 @@
 It can be understood with an example of like--- 
 
 We are trying to kill a Godzilla with a flyswatter. Technically, it is also termed as *Error due to Bias*
+
+#Overfitting
+This is the case when the model becomes too specific to the given data, and it falis to generalize. Its like trying to kill a mosquito with a gun.
+Technically, its referred to as error due to varience.
+
+This can be also understood as, say, we are preparing for exams. Overfitting is we memeorize everything written in the textbook without understanding anything.
+Underfitting is studying very less. The best model is to study the textbooks and understand the concepts and hence generalize the knowledge. 
+Though the overfitted student can answer anything that is asked from the textbook, but nothing ou of the questions mentioned in the book.
+
