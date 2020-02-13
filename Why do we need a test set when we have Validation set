@@ -2,5 +2,5 @@
 
 When we go to test the model; using the test set, it looks at the data that it has **truly** never seen before.
 Though, during the training process, the model is not using the data in the validation set to update its weights, but the model selection process,
-is based on how the models perform with the Vlidation data. So, there is a finite possiblity that, the model hence selected is biased towards the Validation set.
-That is why, we need third set,  the Test set.
+is based on how the models perform with the Validation data. So, there is a finite possiblity that, the model hence selected is biased towards the Validation set.
+That is why, we need third set,  the Test set, to truly see how our model generalizes, and performs when given some data it has truly never sen before.
